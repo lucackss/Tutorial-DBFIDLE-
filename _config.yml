@@ -1,3 +1,8 @@
-title: "Tutorial DB Fiddle"
+title: "Meus Tutoriais"
 description: "Portfólio de tutoriais do Lux"
 theme: jekyll-theme-cayman
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
+plugins:
+  - jekyll-feed
