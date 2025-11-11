@@ -1,7 +1,6 @@
 title: "Meus Tutoriais"
 description: "Portfólio de tutoriais do Lux"
-theme: jekyll-theme-cayman
-
+theme: jekyll-theme-minimal
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 plugins:
